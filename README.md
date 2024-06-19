@@ -1,4 +1,7 @@
 # Student affairs Website
+This project is a Student Affairs management system designed for university use. It allows users to manage student information efficiently through a web interface with various functionalities.
+
+
 ## Features
 
 - **Add New Student**: Users can add new students to the system. The student information includes ID, name, date of birth, GPA, gender, level, status (active/inactive), department, email, and mobile number.
